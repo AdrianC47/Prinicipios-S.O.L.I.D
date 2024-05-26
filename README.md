@@ -13,6 +13,6 @@ OCP (Principio Abierto/Cerrado)
 LSP (Principio de Sustitución de Liskov)  
 ISP (Principio de Segregación de Interfaces)  
 DIP (Principio de Inversión de Dependencia)  
-🚀 Progreso
+🚀 Progreso  
 Aquí actualizaré regularmente mi progreso en el curso, destacando las lecciones aprendidas y cualquier proyecto o tarea importante completado.
  
